@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/lightblue"
+    android:orientation="vertical">
+
+
+    <!-- Not using just create space between view -->
+    <TextView
+        android:id="@+id/textViewTimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- display total and how many question left -->
+    <TextView
+        android:id="@+id/textViewNums"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="@string/questionLeft"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- display question -->
+    <TextView
+        android:id="@+id/textViewQuestions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/question"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <!-- Not using just create space between view -->
+    <TextView
+        android:id="@+id/textViewEmpty3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <!-- Not using just create space between view -->
+    <TextView
+        android:id="@+id/textViewEmpty4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+</LinearLayout>

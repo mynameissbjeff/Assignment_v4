@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Lab 2.2 Profile</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="web">Web</string>
+    <string name="phone">Phone</string>
+    <string name="mail">Mail</string>
+    <string name="main">Main</string>
+    <string name="update">Update</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="save">Save</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="start">Start</string>
+    <string name="title_activity_mode">ModeActivity</string>
+    <string name="addi">addi</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="addition">Addition</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="mix">Mix</string>
+    <string name="pratice">Pratice</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="question">Question</string>
+    <string name="true1">True1</string>
+    <string name="true2">True2</string>
+    <string name="false1">False1</string>
+    <string name="false2">False2</string>
+    <string name="questionLeft">Question Left</string>
+    <string name="title_activity_multiplayer">MultiplayerActivity</string>
+    <string name="selecttrue">SelectTrue</string>
+    <string name="selectfalse">SelectFalse</string>
+    <string name="modepic">ModePic</string>
+    <string name="ok">OK</string>
+    <string name="result">Result</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="score">Score</string>
+    <string name="hints">What is the correct answer? </string>
+    <string name="history">History</string>
+    <string name="hints2">Are this statement is true?</string>
+    <string name="insert_score_url">http://motg.000webhostapp.com/insert_score.php</string>
+
+
+
+
+</resources>
